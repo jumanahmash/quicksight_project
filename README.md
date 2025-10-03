@@ -51,7 +51,6 @@ Analysis findings summary
 
  Getting Started
 
-git clone https://github.com/yourusername/aws-quicksight-college-analytics
 Review the project documentation
 
 Explore the dashboard screenshots
