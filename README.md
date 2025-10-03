@@ -40,19 +40,6 @@ Automation: Weekly dataset refresh schedules
 
 Security: Row-level and column-level security configurations
 
-📁 Files to Include
-Your presentation slides (IMG_1420.png)
-
-QuickSight dashboard exports/screenshots
-
-Dataset schema documentation
-
-Analysis findings summary
-
- Getting Started
-
-Review the project documentation
 
 Explore the dashboard screenshots
 
-Check the insights summary for key findings
